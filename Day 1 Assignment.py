@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 # Declaring variables of different data types integer, float, string, and boolean
 my_integer = 10
 my_float = 3.14
