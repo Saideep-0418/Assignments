@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 # Creating a list with 5 elements
 my_list = [10, 20, 30, 40, 50]
 print("Element at index 2:", my_list[2])  # Accessing the 3rd element (30)
